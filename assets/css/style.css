@@ -123,9 +123,13 @@ h1, h2, h3, h4, h5, h6 {
   transition: all 0.5s;
   z-index: 996;
 }
+.languages {
+  font-size: 16px;
+  margin-left: 20px;
+}
 @media screen and (max-width: 500px) {
   .languages {
-    font-size: 12px;
+    font-size: 14px;
     margin-left: 20px;
   }
   #topbar {
